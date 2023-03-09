@@ -1,7 +1,7 @@
 {
-  "main.css": "./static/css/main.84d5cc8d.chunk.css",
-  "main.js": "./static/js/main.a4840686.chunk.js",
-  "main.js.map": "./static/js/main.a4840686.chunk.js.map",
+  "main.css": "./static/css/main.2d7588d1.chunk.css",
+  "main.js": "./static/js/main.19703483.chunk.js",
+  "main.js.map": "./static/js/main.19703483.chunk.js.map",
   "static/js/1.38ecc02d.chunk.js": "./static/js/1.38ecc02d.chunk.js",
   "static/js/1.38ecc02d.chunk.js.map": "./static/js/1.38ecc02d.chunk.js.map",
   "static/js/2.06bd0381.chunk.js": "./static/js/2.06bd0381.chunk.js",
@@ -23,8 +23,8 @@
   "static/media/firefox.png": "./static/media/firefox.41ad8d9a.png",
   "static/media/Mealtic.jpeg": "./static/media/Mealtic.17741cb0.jpeg",
   "static/media/Puissance4.png": "./static/media/Puissance4.c46c8420.png",
-  "static/css/main.84d5cc8d.chunk.css.map": "./static/css/main.84d5cc8d.chunk.css.map",
+  "static/css/main.2d7588d1.chunk.css.map": "./static/css/main.2d7588d1.chunk.css.map",
   "index.html": "./index.html",
-  "precache-manifest.0836af96b5c5c4f47f6c55aaa74ea648.js": "./precache-manifest.0836af96b5c5c4f47f6c55aaa74ea648.js",
+  "precache-manifest.7e912ae06054f2128f991b88e6f4bcdd.js": "./precache-manifest.7e912ae06054f2128f991b88e6f4bcdd.js",
   "service-worker.js": "./service-worker.js"
 }
