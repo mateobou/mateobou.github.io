@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "1970348360537854d3b1",
-    "url": "./static/css/main.2d7588d1.chunk.css"
+    "revision": "e152c96931b43fd24fcd",
+    "url": "./static/css/main.a16e6477.chunk.css"
   },
   {
-    "revision": "1970348360537854d3b1",
-    "url": "./static/js/main.19703483.chunk.js"
+    "revision": "e152c96931b43fd24fcd",
+    "url": "./static/js/main.e152c969.chunk.js"
   },
   {
     "revision": "38ecc02d009634cff82d",
     "url": "./static/js/1.38ecc02d.chunk.js"
   },
   {
-    "revision": "06bd03817cc2e76a9e49",
-    "url": "./static/js/2.06bd0381.chunk.js"
+    "revision": "d3a8e7aa03385e987445",
+    "url": "./static/js/2.d3a8e7aa.chunk.js"
   },
   {
     "revision": "d76f0640304a0c2e87be",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "./static/media/Puissance4.c46c8420.png"
   },
   {
-    "revision": "7110b92161d394653dfd84f0ae290a4c",
+    "revision": "60e0678aea7cd2f4792aa7d432268468",
     "url": "./index.html"
   }
 ];

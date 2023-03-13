@@ -1,11 +1,11 @@
 {
-  "main.css": "./static/css/main.2d7588d1.chunk.css",
-  "main.js": "./static/js/main.19703483.chunk.js",
-  "main.js.map": "./static/js/main.19703483.chunk.js.map",
+  "main.css": "./static/css/main.a16e6477.chunk.css",
+  "main.js": "./static/js/main.e152c969.chunk.js",
+  "main.js.map": "./static/js/main.e152c969.chunk.js.map",
   "static/js/1.38ecc02d.chunk.js": "./static/js/1.38ecc02d.chunk.js",
   "static/js/1.38ecc02d.chunk.js.map": "./static/js/1.38ecc02d.chunk.js.map",
-  "static/js/2.06bd0381.chunk.js": "./static/js/2.06bd0381.chunk.js",
-  "static/js/2.06bd0381.chunk.js.map": "./static/js/2.06bd0381.chunk.js.map",
+  "static/js/2.d3a8e7aa.chunk.js": "./static/js/2.d3a8e7aa.chunk.js",
+  "static/js/2.d3a8e7aa.chunk.js.map": "./static/js/2.d3a8e7aa.chunk.js.map",
   "runtime~main.js": "./static/js/runtime~main.d76f0640.js",
   "runtime~main.js.map": "./static/js/runtime~main.d76f0640.js.map",
   "static/media/bird.gif": "./static/media/bird.c1635d75.gif",
@@ -23,8 +23,8 @@
   "static/media/firefox.png": "./static/media/firefox.41ad8d9a.png",
   "static/media/Mealtic.jpeg": "./static/media/Mealtic.17741cb0.jpeg",
   "static/media/Puissance4.png": "./static/media/Puissance4.c46c8420.png",
-  "static/css/main.2d7588d1.chunk.css.map": "./static/css/main.2d7588d1.chunk.css.map",
+  "static/css/main.a16e6477.chunk.css.map": "./static/css/main.a16e6477.chunk.css.map",
   "index.html": "./index.html",
-  "precache-manifest.7e912ae06054f2128f991b88e6f4bcdd.js": "./precache-manifest.7e912ae06054f2128f991b88e6f4bcdd.js",
+  "precache-manifest.8fe01a3fac918ac7b8a159fbfe20c381.js": "./precache-manifest.8fe01a3fac918ac7b8a159fbfe20c381.js",
   "service-worker.js": "./service-worker.js"
 }
